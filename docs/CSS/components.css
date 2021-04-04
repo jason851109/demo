@@ -28,6 +28,9 @@
 ---------------------------*/
 
 /* background */
+.wrappper{
+	overflow:hidden;
+}
 .bg{
 	position: fixed;
 	top: 0;
@@ -512,8 +515,8 @@
 }
 @media (max-width: 480px){
 	.hero__bg{
-		background-size: 320px;
-		top: 120px;
+		background-size: 360px;
+		top: 160px;
 		left: 70%;
 
 	}
