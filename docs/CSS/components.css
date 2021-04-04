@@ -963,6 +963,11 @@
 		transform: translateY(0px);
 	}
 }
+@media (max-width: 768px){
+	.graphic_019,.graphic_015{
+		display: none;
+	}
+}
 .graphic_002{bottom:10%;left: 2%;width: 100px;}
 .graphic_003{top: -180%;right: -5%;width: 200px;}
 .graphic_004{top: -30%;right: 20%;width: 300px;}
